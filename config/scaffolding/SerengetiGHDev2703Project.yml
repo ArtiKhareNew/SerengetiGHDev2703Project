@@ -8,7 +8,11 @@ packages:
   gitUsername: ArtiKhareNew
   gitBranch: main
 - name: upperfspackage
-  gitServerName: srcCtrl_shared_bitbucket_Arti
+  gitServerName: srcCtrl_bitbucket_Arti
   gitUrl: https://bitbucket.org/testartiibm
   gitUsername: artikhare
   gitBranch: master
+- name: OpenWeatherClient
+  wpmServer: https://packages.webmethods.io
+  wpmRegistry: public
+  wpmVersion: LATEST
